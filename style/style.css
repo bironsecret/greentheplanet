@@ -1,0 +1,24 @@
+#top_panel{
+  background-color: green;
+  position: fixed;
+  top: 0%;
+  width: 100%;
+  height: 100px;
+  left: 0%;
+}
+#bottom_panel{
+  background-color: green;
+  position: fixed;
+  bottom: 0%;
+  width: 100%;
+  height: 100px;
+  left: 0%;
+}
+.panelParagraph{
+  position: relative;
+  left: -100px;
+  top: 25px;
+  width:60px;
+  height: 60px;
+  margin-left: 20%;
+}
