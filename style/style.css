@@ -96,8 +96,16 @@ list-style-type: none;
 #centr {
   margin: auto;
   width: 50%;
-  border: 3px solid green;
-
   padding: 10px;
-  top:50%;
+  margin-top: 20%;
+  position: static;
+}
+#plntsss{
+  text-align: center;
+  font-family: PlantsLetters;
+}
+@font-face {
+font-family: PlantsLetters;
+src: url('C:/Users/Slava/greentheplanet/main/font/hojas.otf');
+
 }
